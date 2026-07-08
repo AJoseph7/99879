@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio — Anttoni Mascarenhas
+# Cybersecurity Portfolio  Antoni Mascarenhas
 
 🔐 Aspiring SOC Analyst transitioning into cybersecurity.  
 📍 Based in Melbourne, Australia, open to local and remote opportunities.  
